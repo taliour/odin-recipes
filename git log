@@ -1,0 +1,32 @@
+[33mcommit da28d38826a3ed2ec09c3ca952c7fc50b95f1b25[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Taliour <Ktaliour@gmail.com>
+Date:   Sat Jul 30 13:53:53 2022 +0300
+
+    Add carbonara image and add carbonara link to main page
+
+[33mcommit da47dcaef38c9c41fb6b0f3ad267bc41448545ca[m
+Author: Taliour <Ktaliour@gmail.com>
+Date:   Sat Jul 30 13:47:44 2022 +0300
+
+    Add the carbonara recipe
+        Add the carbonara recipe by copying lasagna format and putting carbonara info
+
+[33mcommit fe292194dc30950b66193a94494bd4335142fe6a[m
+Author: Taliour <Ktaliour@gmail.com>
+Date:   Sat Jul 30 13:35:21 2022 +0300
+
+    Add a link back to main page
+
+[33mcommit aa79a11af6563988deba48cc2eaba541dbf3a9eb[m
+Author: Taliour <Ktaliour@gmail.com>
+Date:   Sat Jul 30 13:30:27 2022 +0300
+
+    Add Recipe instructions, fix wrong number headers
+        Added the instructions, fix the wrong headers and added break lines for readability
+
+[33mcommit 82a674dd93f93dd3015ac325b10ac04203599534[m
+Author: Taliour <Ktaliour@gmail.com>
+Date:   Sat Jul 30 13:20:34 2022 +0300
+
+    Add Main Page, Image Folder and half Lasagna recipes
+        Add main page and image folder, finish lasagna image, description and ingredients
