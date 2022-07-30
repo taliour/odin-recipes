@@ -1,0 +1,1 @@
+This is my first HTML project while doing The Odin project. My target is to use everything I learned about html (maybe a bit more with some research) and make a site (although ugly due to no CSS).
