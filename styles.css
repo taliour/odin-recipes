@@ -1,0 +1,21 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: orange;
+    background-color: black;
+    font-weight: bold;
+}
+
+.recipes {
+    color: green;
+}
+
+.list {
+    color: red;
+}
+
+.list_products {
+    font-size: 16px;
+}
